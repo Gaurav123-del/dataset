@@ -1,0 +1,27 @@
+{
+    "a4dbd8a5a02d063f0b8a3107cac57aec362163e437a3a9c17e3cfea52bc1e8fb": {
+        "prediction": "buildings",
+        "confidence": 0.9471124410629272,
+        "model": "EfficientNet-B0 V1"
+    },
+    "03ea2bfa8c9ea5faeb856887f4ef7fc6e259f05a6873fd23aedf3d1f62d9598a": {
+        "prediction": "forest",
+        "confidence": 0.9946847558021545,
+        "model": "EfficientNet-B0 V1"
+    },
+    "757257acd58b9b883271159843d7ea1ab892f6d94ac1e13febd30c51fad2ab49": {
+        "prediction": "forest",
+        "confidence": 0.9943633079528809,
+        "model": "EfficientNet-B0 V1"
+    },
+    "0d770a05d8a7bcc6d42efef14f5157e1a8edb62e1dc485ce857b8351f5ecbc26": {
+        "prediction": "forest",
+        "confidence": 0.9996334314346313,
+        "model": "EfficientNet-B0 V1"
+    },
+    "15c5997f0eaa93dbc287b16d447a9b93e10648ff5609224c82e6a7c785e2a7ae": {
+        "prediction": "forest",
+        "confidence": 0.9873560070991516,
+        "model": "EfficientNet-B0 V1"
+    }
+}
